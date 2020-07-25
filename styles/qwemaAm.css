@@ -1,0 +1,61 @@
+.round {border-radius: 10px;} .no-border {border: none;} .click-no-outline {outline: none;}
+.transparent {background-color: rgba(0,0,0,0);border:none;outline:none;} .clean {border-radius: 10px; 
+border: black; outline: #333; } .warning-round {border-radius: 10px;border: none; outline: none;
+background-color: rgb(255, 150, 0);color: #000;}.warning-round:hover {transition: background-color 0.5s;
+background-color: rgb(210, 110, 0);}.error-round {border-radius: 10px;border: none;outline: none;
+background-color: rgb(255, 65, 65);color: #000;}.error-round:hover {transition: background-color 0.5s;
+background-color: rgb(255, 45, 45);}.sky-round {border-radius: 10px;border: none;outline: none;
+background-color: rgb(10, 130, 255);color: #000;}.sky-round:hover {transition: background-color 0.5s;
+background-color: rgb(25, 170, 255);}.smart-green {border-radius: 10px;border: none; outline: none;
+background-color: rgb(90, 255, 90);color: #000;}.smart-green:hover {transition: background-color 0.5s;
+background-color: rgb(70, 235, 70);}.blood-red {border-radius: 10px;border: none;outline: none;
+background-color: rgb(150, 0, 0);color: #fff;}.blood-red:hover {transition: background-color 0.5s;
+background-color: rgb(175, 0, 0);}.brights {border-radius: 10px;border: none;outline: none;
+background-color: rgb(255, 255, 0);color: #000;}.brights:hover {transition: background-color 0.5s;
+background-color: rgb(200, 200, 0);}.calm-teal { border-radius: 10px;border: none;outline: none;
+background-color: rgb(0, 255, 175);color: #000;}.calm-teal:hover {transition: background-color 0.5s;
+background-color: rgb(0, 205, 125);}.hot-pink {border-radius: 10px;border: none;outline: none;
+background-color: rgb(255, 50, 200);color: #000;}.hot-pink:hover {transition: background-color 0.5s;
+background-color: rgb(255, 50, 200); }.patron-orange {border-radius: 10px;border: none;outline: none;
+background-color: rgb(255, 110, 90);color: #000;}.patron-orange:hover {transition: background-color 0.5s;
+background-color: rgb(235, 90, 70);}.warning-block {border: none; outline: none;
+background-color: rgb(255, 150, 0);color: #000;}.warning-block:hover {transition: background-color 0.5s;
+background-color: rgb(210, 110, 0);}.error-block {border: none;outline: none;
+background-color: rgb(255, 65, 65);color: #000;}.error-block:hover {transition: background-color 0.5s;
+background-color: rgb(255, 45, 45);}.sky-block {border: none;outline: none;background-color: rgb(10, 130, 255);
+color: #000;}.sky-block:hover {transition: background-color 0.5s;background-color: rgb(25, 170, 255);}
+.smart-green-block {border: none;outline: none;background-color: rgb(90, 255, 90);color: #000;}
+.smart-green-block:hover {transition: background-color 0.5s;background-color: rgb(70, 235, 70);}.blood-red-block {
+border: none;outline: none;background-color: rgb(150, 0, 0);color: #fff;}.blood-red-block:hover {
+transition: background-color 0.5s;background-color: rgb(175, 0, 0);}.brights-block {border: none;outline: none;
+background-color: rgb(255, 255, 0);color: #000;}.brights-block:hover {transition: background-color 0.5s;
+background-color: rgb(200, 200, 0);}.calm-teal-block {border: none;outline: none;background-color: rgb(0, 255, 175);
+color: #000;}.calm-teal-block:hover {transition: background-color 0.5s;background-color: rgb(0, 205, 125);}
+.hot-pink-block { border: none;outline: none;background-color: rgb(255, 50, 200);color: #000;}.hot-pink-block:hover {
+transition: background-color 0.5s;background-color: rgb(255, 50, 200); }.patron-orange-block {border: none;
+outline: none; background-color: rgb(255, 110, 90);color: #000;}.patron-orange-block:hover {transition: background-color 0.5s;
+background-color: rgb(235, 90, 70);}.submit-round {border-radius: 10px;border: none;outline: none;background-color: rgb(25, 255, 200);
+color: #000;}.submit-round:hover {transition: background-color 0.5s;background-color: rgb(5, 230, 175);} .royal-purple-round {
+border-radius: 10px;border: none;outline: none;background-color: rgb(125, 0, 255);color: #000;}.royal-purple-round:hover {
+transition: background-color 0.5s;background-color: rgb(105, 0, 235);}.plum-round {border-radius: 10px;border: none;outline: none;
+background-color: rgb(100, 0, 175);color: #fff;}.plum-round:hover {transition: background-color 0.5s;background-color: rgb(75, 0, 150);
+}.dblue-round {border-radius: 10px;border: none;outline: none;background-color: rgb(0, 25, 140);color: #fff;}.dblue-round:hover {
+transition: background-color 0.5s;background-color: rgb(0, 50, 175);}.pure-orange-round {border-radius: 10px;border: none;outline: none;
+background-color: rgb(255, 100, 0);color: #000; }.pure-orange-round:hover {transition: background-color 0.5s;background-color: rgb(235, 75, 0);
+}.bright-red-round {border-radius: 10px;border: none;outline: none;background-color: rgb(255, 0, 0);color: #000; }.bright-red-round:hover {
+transition: background-color 0.5s;background-color: rgb(225, 0, 0);}.green-round {border-radius: 10px;border: none;outline: none;
+background-color: rgb(45, 150, 25);color: #000; }.green-round:hover {transition: background-color 0.5s;background-color: rgb(25, 130, 5);
+}.royal-purple-block {border: none;outline: none;background-color: rgb(125, 0, 255);color: #000;}.royal-purple-block:hover {
+transition: background-color 0.5s;background-color: rgb(105, 0, 235);}.plum-block {border: none;outline: none;background-color: rgb(100, 0, 175);
+color: #fff;}.plum-block:hover {transition: background-color 0.5s;background-color: rgb(75, 0, 150);}.dblue-block {border: none;outline: none;
+background-color: rgb(0, 25, 140);color: #fff;}.dblue-block:hover {transition: background-color 0.5s;background-color: rgb(0, 50, 175);
+}.pure-orange-block {border: none;outline: none;background-color: rgb(255, 100, 0);color: #000; }.pure-orange-block:hover {transition: background-color 0.5s;
+background-color: rgb(235, 75, 0);}.bright-red-block {border: none;outline: none;background-color: rgb(255, 0, 0);color: #000; }
+.bright-red-block:hover {transition: background-color 0.5s;background-color: rgb(225, 0, 0);}.green-block {border: none;outline: none;
+background-color: rgb(45, 150, 25);color: #000; }.green-block:hover {transition: background-color 0.5s;background-color: rgb(25, 130, 5);
+}
+
+.small {width: 75px;height: 35px;}.smaller {width: 50px;height: 25px;}.medium {width: 100px;height: 50px;}.large {width: 150px;height: 100px;}
+.larger { width: 200px;height: 150px;}.long-small {width: 150px;height: 35px;}.long-smaller {width: 100px;height: 25px;}.long-medium {width: 150px;height: 50px;}
+.long-large {width: 250px;height: 100px;}.long-larger {width: 300px;height: 150px;}.no-margin {margin: 0px;}.small-text {font-size: 25px;}
+.smaller-text {font-size: 15px;}.medium-text {font-size: 35px;}.large-text {font-size: 90px;}.larger-text {font-size: 135px;}
